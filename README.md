@@ -25,6 +25,7 @@ Skill tools 安装方法
 4.	中文菜单切换,启动 allegro,在 setup‐‐‐‐‐‐‐‐‐>user Preferences‐‐‐‐‐‐‐‐‐‐‐>File_management‐‐‐
 ‐‐‐‐>Autosave‐‐‐‐‐‐‐‐‐>autosave_dbcheck 打勾。
  
+<img width="1165" height="1074" alt="82e31d90-27f5-4917-bc48-21a0e10cff52" src="https://github.com/user-attachments/assets/cc65cdec-df42-45d9-9f36-5d12ae90a761" />
 
 
 5.	将 Skill 文件夹下面的forms 里面的align.form 复制到D:\Cadence\Cadence_SPB_16.6            \share\local\pcb\forms（根据自己实际目录路径），如下图：
