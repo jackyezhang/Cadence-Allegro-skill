@@ -19,7 +19,8 @@ Skill tools 安装方法
 
 3.	开启allegro，如果加载成功，就是如下图：
 
- 
+ <img width="761" height="616" alt="image" src="https://github.com/user-attachments/assets/eaa04898-6ee5-4e61-8977-d7b8337edc87" />
+
 
 4.	中文菜单切换,启动 allegro,在 setup‐‐‐‐‐‐‐‐‐>user Preferences‐‐‐‐‐‐‐‐‐‐‐>File_management‐‐‐
 ‐‐‐‐>Autosave‐‐‐‐‐‐‐‐‐>autosave_dbcheck 打勾。
