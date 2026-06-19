@@ -1,4 +1,8 @@
 # Cadence-Allegro-skill
+[![Python Version](https://img.shields.io/badge/Python-3.9+-blue?svg=true&logo=python&logoColor=white)](https://github.com)
+[![Gemini AI](https://img.shields.io/badge/AI-Gemini%201.5%20Flash-orange?svg=true&logo=google-gemini&logoColor=white)](https://github.com)
+[![License](https://img.shields.io/badge/License-MIT-green?svg=true)](https://github.com)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?svg=true)](https://github.com)
 Cadence SKILL tools
 
 Skill tools 安装方法
